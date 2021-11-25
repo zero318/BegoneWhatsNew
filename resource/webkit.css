@@ -1,3 +1,6 @@
 [class*="libraryhome_WhatsNew"] {
 	display: none !important;
 }
+[class*="libraryhome_UpdatesContainer"] {
+	display: none !important;
+}
